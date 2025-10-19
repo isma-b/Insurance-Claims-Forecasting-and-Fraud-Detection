@@ -70,12 +70,6 @@ The analysis uses the public "Insurance Claims and Policy Data" available on Kag
 
 This project shows how integrated analytics can reduce uncertainty and limit loss: forecasting improves operational planning and reserve management; fraud detection reduces leakage and protects margins. The methods presented are adaptable to related domains such as healthcare claims, warranty management, and credit loss forecasting.
 
-## Structure of the repository
-
-* `notebook.ipynb` — the main Colab-ready notebook containing the end-to-end analysis, written cell-by-cell for easy copying.
-* `README.md` — this document.
-* `requirements.txt` — list of Python packages required to run the notebook.
-* `data/` — placeholder for the dataset or instructions to download from Kaggle.
 
 ## Notes and limitations
 
